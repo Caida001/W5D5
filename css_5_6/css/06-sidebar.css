@@ -1,0 +1,13 @@
+.content-sidebar {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.content-sidebar img {
+  border: 1px solid black;
+  height: 200px;
+  border-radius: 3px;
+  position: relative;
+  margin-top: -120px;
+}
